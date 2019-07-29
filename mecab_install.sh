@@ -1,3 +1,4 @@
 sudo apt-get install mecab libmecab-dev mecab-ipadic
+sudo apt-get install aptitude
 sudo aptitude install mecab-ipadic-utf8
-sudo apt-get install mecab-python3
+pip install mecab-python3
