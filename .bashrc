@@ -1,0 +1,15 @@
+export PATH="/Users/tanakachinatsu/usr/bin:$PATH"
+export PATH="/Users/tanakachinatsu/.pyenv/shims:$PATH"
+export PATH="/usr/local/Cellar/vim/8.1.1300/bin:$PATH"
+export PYTHONPATH=$PYTHONPATH:/Users/tanakachinatsu/.pyenv/versions/3.7.3/lib/python3.7/site-packages
+alias ls='ls -G'
+alias p="pwd"
+alias nlp='cd ~/01_nlp/'
+alias myapp='cd ~/11_DigiCom/myApp'
+alias ga='git add .'
+alias gc='git commit'
+alias g='grep'
+alias m='mkdir'
+alias o='open'
+alias v='vim'
+alias hpush='git push heroku master'
